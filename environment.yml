@@ -4,6 +4,7 @@ channels:
     - https://conda.binstar.org/tlatorre 
     - https://conda.anaconda.org/cjs14
     - https://conda.anaconda.org/menpo
+    - https://conda.anaconda.org/anaconda
     - jjhelmus
 dependencies:
     - python==3.5.2
